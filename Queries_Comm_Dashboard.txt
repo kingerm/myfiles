@@ -2,7 +2,7 @@
 ---MA Queries
 ---views and blogs together TOP 10
 --edited1
---edited 3rd time
+--edited 3rd 
 
 SELECT T1.PERIOD,
   SUM(T2.CONTENT_VIEWS) AS "VIEWS",
